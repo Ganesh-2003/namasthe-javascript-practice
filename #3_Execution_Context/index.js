@@ -6,3 +6,4 @@ getName()
 function getName() {
     console.log("Namasthe Ganesh")
 }
+
